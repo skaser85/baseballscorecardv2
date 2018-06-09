@@ -1,0 +1,18 @@
+<template>
+  <div>
+    <nuxt/>
+  </div>
+</template>
+
+<style>
+html
+{
+  box-sizing: border-box;
+}
+*, *:before, *:after
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+</style>
